@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Happy Birthday Muhammad Aish Irfan!</title>
+<style>
+:root{--blue:#58d8ff;--deep:#071a4a;--pink:#ff9be8}*{box-sizing:border-box}body{margin:0;min-height:100vh;overflow-x:hidden;color:#fff;font-family:system-ui,-apple-system,Segoe UI,sans-serif;text-align:center;background:radial-gradient(circle at 50% 10%,#244bb4 0,#102a70 35%,#050d2d 100%);}
+body:before{content:"";position:fixed;inset:0;pointer-events:none;background-image:radial-gradient(#fff 1px,transparent 1.5px),radial-gradient(#7eeaff 1px,transparent 1.5px);background-size:57px 57px,91px 91px;background-position:0 0,23px 39px;opacity:.45;animation:twinkle 3s ease-in-out infinite alternate}
+.wrap{position:relative;z-index:1;max-width:850px;margin:auto;padding:35px 18px 45px}.pill{display:inline-block;padding:8px 15px;border:1px solid #7be8ff88;border-radius:999px;background:#53dfff18;color:#c6f7ff;letter-spacing:2px;font-size:.78rem;box-shadow:0 0 22px #3ddcff45;animation:glow 2s infinite alternate}h1{font-size:clamp(.78rem,4.2vw,2.4rem);line-height:1.15;white-space:nowrap;letter-spacing:-.035em;margin:22px 0 10px;text-shadow:0 0 12px #55dfff,0 0 35px #477dff;animation:float 3s ease-in-out infinite}h1 span{display:inline;color:#9cf4ff}.subtitle{font-size:clamp(1.2rem,4vw,2rem);font-weight:900;color:#ffe78a;text-shadow:0 0 18px #ffc94a;margin:14px 0 4px;animation:glow 1.6s infinite alternate}.small{color:#c9e7ff;margin:8px 0 0}.stage{position:relative;margin:24px auto 10px;max-width:610px;min-height:330px;border:1px solid #83eaff55;border-radius:30px;background:linear-gradient(145deg,#132c72bb,#0a1644cc);box-shadow:0 0 30px #38cfff30,inset 0 0 35px #508aff18;display:flex;align-items:center;justify-content:center;gap:8px;padding:24px 12px;overflow:hidden}.stage:after{content:"✦  ✧  ✦  ✧  ✦";position:absolute;top:15px;left:0;right:0;color:#8df4ff;letter-spacing:22px;opacity:.8;animation:twinkle 1.8s infinite alternate}.cake-area{position:relative;width:65%;max-width:330px;height:255px;display:flex;align-items:flex-end;justify-content:center;animation:float 3.5s ease-in-out infinite}.cake{position:relative;width:235px;height:145px;margin-bottom:16px;filter:drop-shadow(0 12px 20px #0008)}.tier{position:absolute;left:0;right:0;border:3px solid #ffd6ff;border-radius:18px 18px 14px 14px;background:linear-gradient(90deg,#3a72ff,#7d7bff 48%,#39d9ff);box-shadow:inset 0 -9px 0 #213fb6,0 0 20px #63dfff66}.tier.bottom{height:78px;bottom:0}.tier.top{height:64px;width:78%;left:11%;bottom:68px;background:linear-gradient(90deg,#ff9eea,#d7a0ff,#7ceaff);box-shadow:inset 0 -8px 0 #8a54cf,0 0 18px #ff8ded77}.icing{position:absolute;top:-8px;left:0;right:0;height:18px;border-radius:50%;background:#fff0ff;box-shadow:0 0 14px #fff}.icing:after{content:"";position:absolute;top:8px;left:0;width:100%;height:20px;background:#fff0ff;clip-path:polygon(0 0,100% 0,100% 42%,91% 42%,91% 78%,83% 78%,83% 42%,66% 42%,66% 100%,57% 100%,57% 42%,35% 42%,35% 78%,26% 78%,26% 42%,9% 42%,9% 68%,0 68%);border-radius:0 0 8px 8px}.candles{position:absolute;left:0;right:0;bottom:126px;display:flex;justify-content:center;gap:25px}.candle{width:9px;height:42px;border-radius:4px;background:repeating-linear-gradient(135deg,#fff 0 6px,#63cfff 6px 12px);position:relative;box-shadow:0 0 8px #fff8}.flame{position:absolute;width:15px;height:23px;top:-24px;left:-3px;border-radius:50% 50% 50% 0;transform:rotate(-45deg);background:radial-gradient(circle at 65% 65%,#fff 0 10%,#fff5a1 20%,#ff9b24 58%,#ff4d5f 80%);box-shadow:0 0 14px #ffb52e,0 0 27px #ff7a36;animation:flicker .18s infinite alternate}.candle.out .flame{display:none}.cat{width:30%;max-width:155px;min-width:95px;align-self:center;filter:drop-shadow(0 0 13px #54dfff75);animation:catBob 2.3s ease-in-out infinite;transform-origin:bottom center}.cat{position:relative}.cat svg{width:100%;height:auto;overflow:visible}.cat:after{content:"💨";position:absolute;left:-22px;top:42%;font-size:2rem;opacity:0;transform:scale(.4);pointer-events:none}.stage.blowing .cat{animation:catBlow 1.15s ease-in-out both}.stage.blowing .cat:after{animation:windPuff .8s .15s ease-out both}.stage.blowing .cake-area{animation:cakeReact .5s ease-in-out 2}.stage.blowing .flame{animation:flameWaver .2s ease-in-out 3}.message{display:none;margin:22px auto 0;max-width:570px;padding:22px 18px;border-radius:24px;border:1px solid #8befff88;background:linear-gradient(135deg,#1b4caaee,#6a39a8dd);box-shadow:0 0 35px #5be6ff55;animation:pop .65s cubic-bezier(.2,1.5,.5,1)}.message.show{display:block}.message h2{margin:0 0 10px;color:#fff3a4;font-size:clamp(1.7rem,6vw,2.6rem);text-shadow:0 0 14px #ffdb65}.message p{line-height:1.7;margin:6px 0;color:#f3f9ff}.button{border:0;border-radius:999px;padding:16px 26px;margin:18px 0 4px;color:#09215b;background:linear-gradient(90deg,#8ef4ff,#b7c7ff,#ffb9ef);font-weight:1000;font-size:1.05rem;letter-spacing:.5px;cursor:pointer;box-shadow:0 0 22px #5be7ff99,0 5px 0 #3264b4;transition:transform .15s}.button:hover{transform:translateY(-3px) scale(1.03)}.button:active{transform:translateY(2px);box-shadow:0 0 12px #5be7ff}.signature{margin-top:28px;color:#bcefff;font-weight:750;text-shadow:0 0 12px #50dfff}.signature strong{color:#fff;font-size:1.1rem}.footer{font-size:.75rem;color:#89b9e9;margin-top:10px}.confetti{position:fixed;top:-20px;width:9px;height:14px;z-index:5;pointer-events:none;animation:fall 3.2s linear forwards}@keyframes fall{to{transform:translateY(110vh) rotate(850deg);opacity:.1}}@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}@keyframes catBob{0%,100%{transform:translateY(0) rotate(-2deg)}50%{transform:translateY(-8px) rotate(2deg)}}@keyframes catBlow{0%{transform:translate(0,0) rotate(0)}25%{transform:translate(-13px,2px) rotate(-13deg)}48%{transform:translate(-17px,3px) rotate(-16deg)}72%{transform:translate(-7px,-2px) rotate(-7deg)}100%{transform:translate(0,0) rotate(0)}}@keyframes windPuff{0%{opacity:0;transform:translate(10px,0) scale(.3)}35%{opacity:1;transform:translate(-13px,-3px) scale(1.15)}100%{opacity:0;transform:translate(-42px,-7px) scale(1.4)}}@keyframes cakeReact{0%,100%{transform:translateX(0)}35%{transform:translateX(-5px)}70%{transform:translateX(4px)}}@keyframes flameWaver{50%{transform:scale(.45) rotate(12deg);opacity:.5}}@keyframes flicker{from{transform:rotate(-45deg) scale(.92)}to{transform:rotate(-40deg) scale(1.08)}}@keyframes glow{from{filter:brightness(.92)}to{filter:brightness(1.25)}}@keyframes twinkle{from{opacity:.25}to{opacity:.7}}@keyframes pop{from{opacity:0;transform:scale(.65)}to{opacity:1;transform:scale(1)}}@media(max-width:480px){.stage{min-height:280px;padding:24px 7px}.cake-area{width:67%;transform:scale(.88);margin-left:-7px}.cat{min-width:80px;width:29%;margin-left:-7px}.cake{transform:scale(.88);transform-origin:bottom center}.wrap{padding-top:25px}}
+
+/* Intro story: the cat searches around while TUDM fighter jets fly across the sky */
+.intro-screen{position:fixed;inset:0;z-index:20;display:flex;flex-direction:column;align-items:center;justify-content:flex-start;gap:0;padding:24px;background:radial-gradient(circle at 50% 35%,#244bb4 0,#102a70 48%,#050d2d 100%);transition:opacity .6s ease,visibility .6s ease;overflow:hidden}
+.intro-screen:before{content:"✦  ✧  ✦  ✧  ✦";position:absolute;top:7%;left:0;right:0;color:#9cf4ff;letter-spacing:18px;opacity:.8;animation:twinkle 1.5s infinite alternate;pointer-events:none}
+.intro-screen.done{opacity:0;visibility:hidden;pointer-events:none}
+.intro-title{display:none}
+.intro-caption{display:none}
+.intro-playground{position:absolute;inset:0;width:100%;height:100%;border:0;border-radius:0;background:transparent;box-shadow:none;overflow:hidden}
+.intro-floor{display:none}
+.intro-cat{position:absolute;left:35%;top:35%;bottom:auto;width:clamp(175px,29vw,250px);filter:drop-shadow(0 0 16px #54dfff90);transform-origin:center center;animation:introAdventure 10s linear both;z-index:2}
+.intro-cat svg{display:block;width:100%;height:auto;overflow:visible}
+.aircraft{position:absolute;z-index:1;pointer-events:none;opacity:.82;filter:drop-shadow(0 0 10px #5bdcff88);color:#bcefff}
+.aircraft svg{display:block;width:100%;height:auto;overflow:visible}
+.aircraft-label{display:none!important}
+.jet-sukhoi{width:clamp(130px,22vw,230px);top:13%;left:-28%;animation:jetSukhoi 8.8s linear infinite}
+.jet-hornet{width:clamp(105px,18vw,190px);top:66%;left:110%;animation:jetHornet 7.5s 1.2s linear infinite}
+.jet-tudm{width:clamp(95px,15vw,160px);top:39%;left:-25%;opacity:.52;animation:jetTudm 10s 2.5s linear infinite}
+.cat-speech{position:absolute;z-index:5;left:50%;top:-58px;transform:translateX(-50%);width:max-content;max-width:min(82vw,330px);padding:11px 15px;border:2px solid #b9f7ff;border-radius:20px;background:linear-gradient(135deg,#fff,#e5faff);color:#15356e;font-size:clamp(.85rem,2.7vw,1.15rem);font-weight:900;line-height:1.2;box-shadow:0 0 18px #70eaff88;text-align:center;animation:bubbleBob 1.8s ease-in-out infinite}
+.cat-speech:after{content:"";position:absolute;left:48%;bottom:-10px;width:16px;height:16px;background:#e5faff;border-right:2px solid #b9f7ff;border-bottom:2px solid #b9f7ff;transform:rotate(45deg)}
+.intro-search{display:none}
+.intro-dab{position:absolute;top:46%;left:50%;transform:translate(-50%,-50%) scale(.2) rotate(-12deg);font-size:clamp(2.4rem,10vw,4.5rem);font-weight:1000;color:#fff08a;text-shadow:0 0 15px #ff9d38,0 4px #ad43a4;opacity:0;animation:dabPop 10s both;white-space:nowrap;z-index:8}
+.stage.landing-cat .cat{animation:catLandAndStand 1.45s cubic-bezier(.2,.85,.3,1) both;}
+@keyframes introAdventure{
+  0%{left:4%;top:24%;transform:rotate(-9deg) scale(.72)}
+  8%{left:24%;top:47%;transform:rotate(8deg) scale(.9)}
+  16%{left:68%;top:27%;transform:rotate(-8deg) scale(1.12)}
+  24%{left:73%;top:62%;transform:rotate(7deg) scale(.8)}
+  32%{left:39%;top:68%;transform:rotate(-7deg) scale(1.18)}
+  40%{left:5%;top:51%;transform:rotate(8deg) scale(.78)}
+  48%{left:40%;top:18%;transform:rotate(-6deg) scale(1.28)}
+  56%{left:69%;top:48%;transform:rotate(7deg) scale(.92)}
+  64%{left:24%;top:38%;transform:rotate(-4deg) scale(1.4)}
+  70%{left:42%;top:30%;transform:rotate(0) scale(1.45)}
+  76%{left:42%;top:30%;transform:rotate(0) scale(1.4)}
+  82%{left:42%;top:42%;transform:rotate(12deg) scale(1.05)}
+  90%{left:42%;top:70%;transform:rotate(65deg) scale(.9)}
+  100%{left:42%;top:110%;transform:rotate(90deg) scale(.85)}
+}
+@keyframes dabPop{
+  0%,79%{opacity:0;transform:translate(-50%,-50%) scale(.2) rotate(-12deg)}
+  84%,89%{opacity:1;transform:translate(-50%,-50%) scale(1) rotate(-8deg)}
+  94%,100%{opacity:0;transform:translate(-50%,-50%) scale(.7) rotate(8deg)}
+}
+@keyframes bubbleBob{0%,100%{margin-top:0}50%{margin-top:-5px}}
+@keyframes catLandAndStand{0%{transform:translateY(-300px) rotate(24deg) scale(.88)}45%{transform:translateY(0) rotate(-8deg) scale(1.02)}62%{transform:translateY(-14px) rotate(5deg) scale(1)}78%{transform:translateY(0) rotate(-2deg) scale(1)}100%{transform:translateY(0) rotate(0) scale(1)}}
+@media(max-width:600px){
+  .intro-cat{width:clamp(160px,43vw,215px)}.cat-speech{top:-52px;max-width:78vw}.jet-sukhoi{top:12%}.jet-hornet{top:72%}.jet-tudm{top:45%}
+  @keyframes introAdventure{
+    0%{left:2%;top:23%;transform:rotate(-9deg) scale(.72)}
+    8%{left:18%;top:48%;transform:rotate(8deg) scale(.9)}
+    16%{left:54%;top:25%;transform:rotate(-8deg) scale(1.05)}
+    24%{left:54%;top:61%;transform:rotate(7deg) scale(.8)}
+    32%{left:28%;top:67%;transform:rotate(-7deg) scale(1.08)}
+    40%{left:2%;top:48%;transform:rotate(8deg) scale(.78)}
+    48%{left:27%;top:18%;transform:rotate(-6deg) scale(1.1)}
+    56%{left:53%;top:46%;transform:rotate(7deg) scale(.92)}
+    64%{left:15%;top:37%;transform:rotate(-4deg) scale(1.18)}
+    70%,76%{left:25%;top:30%;transform:rotate(0) scale(1.18)}
+    82%{left:25%;top:42%;transform:rotate(12deg) scale(.95)}
+    90%{left:25%;top:70%;transform:rotate(65deg) scale(.82)}
+    100%{left:25%;top:110%;transform:rotate(90deg) scale(.8)}
+  }
+}
+@keyframes jetSukhoi{0%{left:-30%;transform:translateY(0) rotate(-3deg)}45%{transform:translateY(28px) rotate(2deg)}100%{left:112%;transform:translateY(-10px) rotate(-2deg)}}
+@keyframes jetHornet{0%{left:112%;transform:scaleX(-1) translateY(0) rotate(4deg)}48%{transform:scaleX(-1) translateY(-24px) rotate(-1deg)}100%{left:-30%;transform:scaleX(-1) translateY(12px) rotate(3deg)}}
+@keyframes jetTudm{0%{left:-28%;transform:translateY(0) rotate(-5deg) scale(.9)}50%{transform:translateY(22px) rotate(2deg) scale(1.02)}100%{left:115%;transform:translateY(-12px) rotate(-3deg) scale(.9)}}
+@media(prefers-reduced-motion:reduce){.intro-cat,.intro-dab,.aircraft,.stage.landing-cat .cat{animation-duration:1ms!important}.intro-screen{transition:none}}
+
+
+/* Four little detectives roaming around the full screen — no magnifying-glass prop */
+.intro-cat{left:0;top:0;width:clamp(145px,22vw,225px);animation:aishSearchFall 10s linear both;z-index:4;}
+.intro-cat .cat-speech{top:-54px;left:50%;}
+.search-cat{position:absolute;left:0;top:0;width:clamp(125px,19vw,195px);z-index:3;filter:drop-shadow(0 0 15px #54dfff85);transform-origin:center center;pointer-events:none;}
+.search-cat svg{display:block;width:100%;height:auto;overflow:visible;}
+.search-cat .cat-name{position:absolute;left:50%;bottom:-14px;transform:translateX(-50%);padding:5px 12px;border:1px solid #b8f4ff;border-radius:999px;background:linear-gradient(135deg,#f7fdff,#bceeff);color:#15356e;font-size:clamp(10px,1.5vw,14px);font-weight:1000;letter-spacing:1px;box-shadow:0 0 15px #54dfff99;white-space:nowrap;}
+.search-cat.chong{animation:chongSearch 10s linear both;z-index:2}
+.search-cat.asyer{animation:asyerSearch 10s linear both;z-index:3}
+.search-cat.ding{animation:dingSearch 10s linear both;z-index:2}
+.intro-cat .cat-speech{z-index:8;}
+@keyframes aishSearchFall{
+  0%{left:3%;top:16%;transform:rotate(-8deg) scale(.72)}
+  10%{left:31%;top:38%;transform:rotate(7deg) scale(.95)}
+  20%{left:70%;top:13%;transform:rotate(-9deg) scale(1.08)}
+  30%{left:72%;top:56%;transform:rotate(8deg) scale(.8)}
+  40%{left:39%;top:67%;transform:rotate(-7deg) scale(1.18)}
+  50%{left:2%;top:47%;transform:rotate(9deg) scale(.82)}
+  60%{left:35%;top:12%;transform:rotate(-5deg) scale(1.2)}
+  70%{left:70%;top:42%;transform:rotate(6deg) scale(.92)}
+  78%{left:38%;top:29%;transform:rotate(-2deg) scale(1.15)}
+  84%{left:38%;top:40%;transform:rotate(9deg) scale(1.08)}
+  91%{left:39%;top:66%;transform:rotate(65deg) scale(.95)}
+  100%{left:39%;top:115%;transform:rotate(100deg) scale(.85)}
+}
+@keyframes chongSearch{
+  0%{left:63%;top:8%;transform:rotate(7deg) scale(.72)}
+  13%{left:38%;top:58%;transform:rotate(-8deg) scale(1.05)}
+  25%{left:5%;top:25%;transform:rotate(10deg) scale(.85)}
+  38%{left:56%;top:15%;transform:rotate(-6deg) scale(1.18)}
+  50%{left:75%;top:60%;transform:rotate(8deg) scale(.78)}
+  64%{left:29%;top:67%;transform:rotate(-8deg) scale(1.12)}
+  77%{left:6%;top:12%;transform:rotate(7deg) scale(.88)}
+  88%{left:62%;top:38%;transform:rotate(-5deg) scale(1.03)}
+  100%{left:112%;top:70%;transform:rotate(15deg) scale(.7)}
+}
+@keyframes asyerSearch{
+  0%{left:7%;top:59%;transform:rotate(-7deg) scale(.82)}
+  12%{left:59%;top:22%;transform:rotate(8deg) scale(1.1)}
+  24%{left:77%;top:42%;transform:rotate(-8deg) scale(.78)}
+  36%{left:25%;top:11%;transform:rotate(7deg) scale(1.16)}
+  49%{left:42%;top:53%;transform:rotate(-5deg) scale(.9)}
+  62%{left:72%;top:11%;transform:rotate(8deg) scale(1.08)}
+  74%{left:18%;top:39%;transform:rotate(-9deg) scale(.82)}
+  88%{left:46%;top:68%;transform:rotate(6deg) scale(1.05)}
+  100%{left:-40%;top:90%;transform:rotate(-12deg) scale(.7)}
+}
+@keyframes dingSearch{
+  0%{left:33%;top:62%;transform:rotate(6deg) scale(.78)}
+  14%{left:74%;top:17%;transform:rotate(-8deg) scale(1.12)}
+  27%{left:43%;top:35%;transform:rotate(7deg) scale(.88)}
+  40%{left:4%;top:12%;transform:rotate(-6deg) scale(1.05)}
+  53%{left:61%;top:54%;transform:rotate(8deg) scale(.82)}
+  66%{left:28%;top:8%;transform:rotate(-8deg) scale(1.17)}
+  79%{left:73%;top:51%;transform:rotate(6deg) scale(.9)}
+  90%{left:35%;top:62%;transform:rotate(-5deg) scale(1.02)}
+  100%{left:115%;top:12%;transform:rotate(13deg) scale(.72)}
+}
+@media(max-width:600px){
+ .intro-cat{width:clamp(130px,35vw,180px)}
+ .search-cat{width:clamp(105px,29vw,150px)}
+ .cat-speech{max-width:78vw;font-size:.82rem;padding:9px 11px}
+}
+.search-cat .cat-name {
+  display: none !important;
+}
+</style></head>
+<body><div class="intro-screen" id="introScreen" aria-label="Birthday cat intro animation">
+  <div class="intro-playground">
+    <div class="aircraft jet-sukhoi" aria-hidden="true">
+      <svg viewBox="0 0 260 92"><path d="M8 48 L82 39 L116 7 L137 7 L126 39 L175 43 L222 24 L242 24 L220 48 L245 59 L241 66 L175 56 L126 56 L139 82 L122 82 L82 57 L8 52Z" fill="currentColor" stroke="#e4fbff" stroke-width="2" stroke-linejoin="round"/><path d="M35 48 L82 46 L117 45 L185 49" fill="none" stroke="#3978c8" stroke-width="3"/><circle cx="117" cy="47" r="4" fill="#fff"/></svg>
+      <span class="aircraft-label">SU-30MKM · SUKHOI</span>
+    </div>
+    <div class="aircraft jet-hornet" aria-hidden="true">
+      <svg viewBox="0 0 240 90"><path d="M8 44 L77 39 L108 12 L124 14 L120 39 L155 41 L187 26 L207 28 L192 45 L228 55 L226 62 L156 53 L120 54 L130 78 L114 79 L78 54 L8 49Z" fill="currentColor" stroke="#e4fbff" stroke-width="2" stroke-linejoin="round"/><path d="M85 42 L122 45 L174 47" fill="none" stroke="#3978c8" stroke-width="3"/><circle cx="116" cy="46" r="3.5" fill="#fff"/></svg>
+      <span class="aircraft-label">F/A-18D HORNET</span>
+    </div>
+    <div class="aircraft jet-tudm" aria-hidden="true">
+      <svg viewBox="0 0 240 90"><path d="M8 44 L77 39 L108 12 L124 14 L120 39 L155 41 L187 26 L207 28 L192 45 L228 55 L226 62 L156 53 L120 54 L130 78 L114 79 L78 54 L8 49Z" fill="currentColor" stroke="#e4fbff" stroke-width="2" stroke-linejoin="round"/><path d="M88 44 L120 46 L172 48" fill="none" stroke="#3978c8" stroke-width="3"/></svg>
+      <span class="aircraft-label">TUDM ✦</span>
+    </div>
+    <div class="intro-cat" id="introCat" aria-hidden="true">
+      <div class="cat-speech">Hmmmmm... hari ni hari jadi siapa yaaa? 🤔</div>
+    </div>
+    <div class="intro-dab">ALAMAK! 💥</div>
+  </div>
+</div>
+<main class="wrap">
+<div class="pill">✨ SPECIAL DAY FOR PAKCIK ✨</div>
+<h1>HAPPY BIRTHDAY,<span>MUHAMMAD AISH IRFAN!</span></h1>
+<div class="subtitle">PAKCIK DAH LEVEL UP! 🎉</div><p class="small">Semoga makin berjaya, bahagia dan sentiasa dalam lindungan Allah 💙</p>
+<section class="stage" aria-label="Birthday cake with a cat in an air force uniform">
+<div class="cake-area"><div class="cake"><div class="tier bottom"></div><div class="tier top"><div class="icing"></div></div><div class="candles"><div class="candle"><i class="flame"></i></div><div class="candle"><i class="flame"></i></div><div class="candle"><i class="flame"></i></div></div></div></div>
+<div class="cat" aria-label="Cute cat wearing an air force uniform"><svg viewBox="0 0 160 220" role="img" aria-label="Kucing askar tentera udara kartun"><defs><linearGradient id="fur" x2="0" y2="1"><stop stop-color="#e5f3ff"/><stop offset="1" stop-color="#8fa8d2"/></linearGradient><linearGradient id="uniform" x2="0" y2="1"><stop stop-color="#78d8ff"/><stop offset="1" stop-color="#1762b9"/></linearGradient></defs>
+<!-- tail rests on the floor on the side away from the cake --> <path d="M111 178 C128 185 135 202 148 203 C156 203 157 195 152 191" fill="none" stroke="#8fa8d2" stroke-width="13" stroke-linecap="round"/><path d="M111 178 C128 185 135 202 148 203 C156 203 157 195 152 191" fill="none" stroke="#e5f3ff" stroke-width="3" stroke-linecap="round"/>
+<!-- ears/head --> <path d="M36 65 L30 23 Q29 15 39 23 L62 42 Q80 34 98 42 L122 22 Q131 16 129 29 L124 67 Q139 91 126 111 Q109 132 80 130 Q49 132 34 111 Q20 91 36 65Z" fill="url(#fur)" stroke="#dff5ff" stroke-width="3"/><path d="M39 40 L57 54 L42 67Z M119 40 L102 54 L117 67Z" fill="#ffb7d9"/><ellipse cx="61" cy="82" rx="5" ry="8" fill="#18356b"/><ellipse cx="99" cy="82" rx="5" ry="8" fill="#18356b"/><circle cx="63" cy="79" r="1.8" fill="white"/><circle cx="101" cy="79" r="1.8" fill="white"/><path d="M75 93 Q80 87 85 93 Q80 100 75 93Z" fill="#d875a3"/><path d="M80 99 Q74 107 67 101 M80 99 Q86 107 93 101" fill="none" stroke="#536b92" stroke-width="2" stroke-linecap="round"/><path d="M48 94 L18 89 M49 101 L19 104 M112 94 L142 89 M111 101 L141 104" stroke="#eaf6ff" stroke-width="2" stroke-linecap="round"/>
+<!-- body uniform --> <path d="M43 130 Q80 115 117 130 L132 188 Q80 203 28 188Z" fill="url(#uniform)" stroke="#bdefff" stroke-width="3"/><path d="M80 127 L80 195 M48 139 L62 151 L48 163 M112 139 L98 151 L112 163" fill="none" stroke="#d9f6ff" stroke-width="3"/><path d="M56 132 L69 145 L80 132 L91 145 L104 132" fill="#fff" opacity=".8"/><rect x="43" y="153" width="34" height="16" rx="4" fill="#f5fbff" stroke="#ffd96a" stroke-width="1.5"/><text x="60" y="163.5" text-anchor="middle" font-size="7.5" font-family="Arial,sans-serif" font-weight="900" fill="#174b91">TUDM</text><rect x="83" y="153" width="34" height="16" rx="4" fill="#f5fbff" stroke="#ffd96a" stroke-width="1.5"/><text x="100" y="163.5" text-anchor="middle" font-size="7.5" font-family="Arial,sans-serif" font-weight="900" fill="#174b91">AISH</text>
+<!-- epaulettes --> <path d="M43 135 L61 139 L57 148 L38 144Z M117 135 L99 139 L103 148 L122 144Z" fill="#ffdf80"/><circle cx="49" cy="141" r="2" fill="#fff"/><circle cx="111" cy="141" r="2" fill="#fff"/>
+<!-- legs --> <path d="M43 185 L40 205 Q39 214 52 214 L68 214 L70 194 M90 194 L92 214 L108 214 Q121 214 118 205 L117 185" fill="#6d87b2" stroke="#dff5ff" stroke-width="3"/><path d="M37 207 L68 207 M92 207 L121 207" stroke="#203e76" stroke-width="4"/>
+<!-- cap --> <path d="M42 55 Q44 29 80 28 Q116 29 118 55Z" fill="#1670bd" stroke="#c7f4ff" stroke-width="3"/><path d="M29 56 Q80 45 131 56 Q128 67 80 66 Q37 66 29 56Z" fill="#0a4d9b" stroke="#d8f8ff" stroke-width="3"/><circle cx="80" cy="48" r="9" fill="#ffdf80"/><path d="M80 41 L82 46 L88 46 L83 50 L85 56 L80 52 L75 56 L77 50 L72 46 L78 46Z" fill="#1762b9"/>
+<!-- arms stay at the outer sides so both chest name tags remain clear --> <path d="M39 142 Q25 155 30 174 Q32 181 40 181" fill="none" stroke="#a9c2e7" stroke-width="13" stroke-linecap="round"/><path d="M39 142 Q25 155 30 174 Q32 181 40 181" fill="none" stroke="#e7f6ff" stroke-width="3" stroke-linecap="round"/><ellipse cx="43" cy="181" rx="8" ry="6.5" fill="#e5f3ff" stroke="#a9c2e7" stroke-width="2"/><path d="M120 142 Q135 155 130 174 Q128 181 120 181" fill="none" stroke="#a9c2e7" stroke-width="13" stroke-linecap="round"/><path d="M120 142 Q135 155 130 174 Q128 181 120 181" fill="none" stroke="#e7f6ff" stroke-width="3" stroke-linecap="round"/><ellipse cx="117" cy="181" rx="8" ry="6.5" fill="#e5f3ff" stroke="#a9c2e7" stroke-width="2"/>
+</svg></div></section>
+<button class="button" id="yay">💨 YAYYYY TUAAAA! 🎉</button>,
+<div class="message" id="message"><h2>HAHAHAHA TUAA 🤗🫵🏻</h2><p>Selamat hari jadi, Tuan Aish!👮🏻‍♂️👨🏻‍💻Hentak kaki hentakkk AHAHAHA</p><p>Semoga panjang umur, mewah rezeki, dipermudahkan segala urusan dan berjaya dalam setiap impian.</p><p>Semoga hari-hari anda penuh dengan kebahagiaan dan paling penting jangan lupa ole ii sarawakkuuu🤭</p>
+<p>Last, semoga makin tua, makin tak merepek la ek🌛 </p></div>
+<div class="signature">Made with 💙 by<br><strong>Jima Gojes ✨</strong></div><div class="footer">cantik, kiut, imut, miyut, lucu grr</div>
+</main>
+<script>
+// Reuse the birthday cat illustration for four little cats searching across the screen.
+window.addEventListener('DOMContentLoaded',()=>{
+  const original=document.querySelector('.cat svg');
+  const introCat=document.getElementById('introCat');
+  const playground=document.querySelector('.intro-playground');
+  if(original && introCat){introCat.appendChild(makeCatSvg(original,'aish'));}
+  if(original && playground){
+    addSearchCat(original,playground,'CHONG','chong',['#ffbd69','#d96a25']);
+    addSearchCat(original,playground,'ASYER','asyer',['#ffffff','#dce5f3']);
+    addSearchCat(original,playground,'DING','ding',['#fff4df','#8797b0']);
+  }
+  window.setTimeout(()=>{
+    const intro=document.getElementById('introScreen');
+    const stage=document.querySelector('.stage');
+    if(intro) intro.classList.add('done');
+    if(stage){stage.classList.add('landing-cat');window.setTimeout(()=>stage.classList.remove('landing-cat'),1600);}
+  },10000);
+  setupDetectiveAudio();
+});
+function makeCatSvg(original,prefix,furColors){
+  const svg=original.cloneNode(true);
+  const idMap={};
+  svg.querySelectorAll('[id]').forEach(el=>{const old=el.id;const next=prefix+'-'+old;idMap[old]=next;el.id=next;});
+  svg.querySelectorAll('*').forEach(el=>{
+    for(const attr of ['fill','stroke','filter','clip-path','mask']){
+      const v=el.getAttribute(attr);if(!v)continue;
+      let nv=v;Object.entries(idMap).forEach(([a,b])=>{nv=nv.replaceAll('url(#'+a+')','url(#'+b+')').replaceAll('#'+a,'#'+b);});
+      if(nv!==v)el.setAttribute(attr,nv);
+    }
+  });
+  if(furColors){
+    const fur=svg.querySelector('#'+prefix+'-fur');
+    if(fur){const stops=fur.querySelectorAll('stop');stops.forEach((stop,i)=>stop.setAttribute('stop-color',furColors[Math.min(i,furColors.length-1)]));}
+  }
+  // Give each cat its own visible chest name while retaining the TUDM tag.
+  const chestNames=svg.querySelectorAll('text');
+  chestNames.forEach(t=>{if(t.textContent.trim()==='AISH')t.textContent=prefix.toUpperCase()==='AISH'?'AISH':prefix.toUpperCase();});
+  if(prefix==='ding'){
+    const patch=document.createElementNS('http://www.w3.org/2000/svg','path');
+    patch.setAttribute('d','M38 47 Q47 39 59 48 L55 63 Q45 67 39 59Z M103 46 Q116 41 123 53 L119 66 L107 61Z');
+    patch.setAttribute('fill','#e9a04e');patch.setAttribute('opacity','.9');
+    const head=svg.querySelector('path[fill^="url("]');if(head)head.parentNode.insertBefore(patch,head.nextSibling);
+  }
+  return svg;
+}
+function addSearchCat(original,playground,name,cls,colors){
+  const wrap=document.createElement('div');wrap.className='search-cat '+cls;wrap.setAttribute('aria-label','Kucing '+name+' sedang mencari-cari');
+  wrap.appendChild(makeCatSvg(original,cls,colors));
+  const label=document.createElement('span');label.className='cat-name';label.textContent=name;wrap.appendChild(label);
+  playground.appendChild(wrap);
+}
+let introAudioCtx=null, detectiveLoop=null, detectiveStarted=false, introFinished=false;
+function setupDetectiveAudio(){
+  const intro=document.getElementById('introScreen');
+  const start=()=>{
+    if(detectiveStarted || introFinished || !intro || intro.classList.contains('done')) return;
+    try{
+      introAudioCtx=introAudioCtx||new(window.AudioContext||window.webkitAudioContext)();
+      if(introAudioCtx.state==='suspended') introAudioCtx.resume();
+      detectiveStarted=true;
+      const ctx=introAudioCtx;
+      const melody=[196,0,261.63,0,233.08,0,293.66,0,196,0,311.13,0,261.63,0,233.08,0];
+      let step=0;
+      const pluck=()=>{
+        if(introFinished || !detectiveStarted) return;
+        const t=ctx.currentTime, f=melody[step%melody.length]; step++;
+        const o=ctx.createOscillator(),g=ctx.createGain();
+        o.type='triangle';if(f===0){g.gain.setValueAtTime(.0001,t);g.gain.exponentialRampToValueAtTime(.0001,t+.08);o.frequency.value=110;}else{o.frequency.setValueAtTime(f,t);o.frequency.exponentialRampToValueAtTime(f*1.12,t+.08);g.gain.setValueAtTime(.0001,t);g.gain.exponentialRampToValueAtTime(.045,t+.012);g.gain.exponentialRampToValueAtTime(.0001,t+.14);o.connect(g);g.connect(ctx.destination);o.start(t);o.stop(t+.15);}
+        const tick=ctx.createOscillator(),tg=ctx.createGain();tick.type='sine';tick.frequency.value=step%2?1250:900;
+        tg.gain.setValueAtTime(.0001,t);tg.gain.exponentialRampToValueAtTime(.018,t+.005);tg.gain.exponentialRampToValueAtTime(.0001,t+.045);
+        tick.connect(tg);tg.connect(ctx.destination);tick.start(t);tick.stop(t+.05);
+        detectiveLoop=setTimeout(pluck,step%2?230:300);
+      };
+      pluck();
+      const curious=()=>{
+        if(introFinished || !detectiveStarted) return;
+        const t=ctx.currentTime,o=ctx.createOscillator(),g=ctx.createGain();
+        o.type='sine';o.frequency.setValueAtTime(660,t);o.frequency.exponentialRampToValueAtTime(880,t+.12);o.frequency.exponentialRampToValueAtTime(740,t+.23);
+        g.gain.setValueAtTime(.0001,t);g.gain.exponentialRampToValueAtTime(.045,t+.025);g.gain.exponentialRampToValueAtTime(.0001,t+.26);
+        o.connect(g);g.connect(ctx.destination);o.start(t);o.stop(t+.27);
+      };
+      [1.1,3.2,5.25,7.05].forEach(sec=>setTimeout(curious,sec*1000));
+      setTimeout(()=>{
+        if(introFinished || !introAudioCtx) return;
+        const t=ctx.currentTime,o=ctx.createOscillator(),g=ctx.createGain();o.type='sawtooth';o.frequency.setValueAtTime(620,t);o.frequency.exponentialRampToValueAtTime(95,t+.62);
+        g.gain.setValueAtTime(.0001,t);g.gain.exponentialRampToValueAtTime(.07,t+.05);g.gain.exponentialRampToValueAtTime(.0001,t+.68);o.connect(g);g.connect(ctx.destination);o.start(t);o.stop(t+.7);
+        setTimeout(()=>{const t2=ctx.currentTime,b=ctx.createOscillator(),bg=ctx.createGain();b.type='sine';b.frequency.setValueAtTime(170,t2);b.frequency.exponentialRampToValueAtTime(65,t2+.28);bg.gain.setValueAtTime(.0001,t2);bg.gain.exponentialRampToValueAtTime(.11,t2+.02);bg.gain.exponentialRampToValueAtTime(.0001,t2+.35);b.connect(bg);bg.connect(ctx.destination);b.start(t2);b.stop(t2+.36)},470);
+      },8300);
+    }catch(e){}
+  };
+  // Browser autoplay rules: first tap/click enables the detective soundtrack and effects.
+  document.addEventListener('pointerdown',start,{once:true});
+  document.addEventListener('keydown',start,{once:true});
+  setTimeout(()=>{introFinished=true;detectiveStarted=false;clearTimeout(detectiveLoop);},10000);
+}
+const notes=[440,523.25,587.33,523.25,659.25,587.33,523.25,783.99,698.46,659.25,523.25,587.33,523.25,587.33,659.25,523.25,440];let audioCtx,loopTimer,started=false;
+function playMelody(){try{audioCtx=audioCtx||new(window.AudioContext||window.webkitAudioContext)();if(audioCtx.state==='suspended')audioCtx.resume();let t=audioCtx.currentTime+.05;const seq=[523.25,523.25,587.33,523.25,698.46,659.25,523.25,523.25,587.33,523.25,783.99,698.46,523.25,523.25,1046.5,880,698.46,659.25,587.33,932.33,932.33,880,698.46,783.99,698.46];seq.forEach((f,i)=>{const o=audioCtx.createOscillator(),g=audioCtx.createGain();o.type='sine';o.frequency.value=f;g.gain.setValueAtTime(.0001,t+i*.34);g.gain.exponentialRampToValueAtTime(.12,t+i*.34+.025);g.gain.exponentialRampToValueAtTime(.0001,t+i*.34+.31);o.connect(g);g.connect(audioCtx.destination);o.start(t+i*.34);o.stop(t+i*.34+.33)});loopTimer=setTimeout(playMelody,seq.length*.34*1000+450)}catch(e){}}
+function confetti(){const colors=['#63eaff','#a5baff','#ff9fe8','#fff18a','#ffffff','#8cffc8'];for(let i=0;i<105;i++){const el=document.createElement('i');el.className='confetti';el.style.left=Math.random()*100+'vw';el.style.background=colors[Math.floor(Math.random()*colors.length)];el.style.animationDelay=Math.random()*.8+'s';el.style.animationDuration=(2.4+Math.random()*2)+'s';el.style.transform='rotate('+Math.random()*360+'deg)';document.body.appendChild(el);setTimeout(()=>el.remove(),5200)}}
+function startMusic(){if(!started){started=true;playMelody()}}
+document.getElementById('yay').addEventListener('click',()=>{startMusic();const stage=document.querySelector('.stage');stage.classList.remove('blowing');void stage.offsetWidth;stage.classList.add('blowing');document.getElementById('yay').textContent='🎉 BIRTHDAY MAGIC ACTIVATED! 💙';setTimeout(()=>{document.querySelectorAll('.flame').forEach(f=>f.style.display='none');document.getElementById('message').classList.add('show');confetti();},650);setTimeout(()=>stage.classList.remove('blowing'),1300);});
+</script>
+<script>
+window.addEventListener('load', function () {
+  setTimeout(function () {
+    const bubble = document.querySelector('#introCat .cat-speech');
+    const chong = document.querySelector('.search-cat.chong');
+
+    if (bubble && chong) {
+      chong.appendChild(bubble);
+    }
+  }, 1000);
+});
+</script>
+</body></html>
